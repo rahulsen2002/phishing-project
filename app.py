@@ -22,7 +22,7 @@ with st.expander("PROJECT DETAILS"):
              'I created my own data set and defined features, some from the literature and some based on manual analysis. '
              'I used requests library to collect data, BeautifulSoup module to parse and extract features. ')
     st.write('The source code and data sets are available in the below Github link:')
-    st.write('_https://github.com/emre-kocyigit/phishing-website-detection-content-based_')
+    st.write('_https://github.com/rahulsen2002/phishing-project_')
 
     st.subheader('Data set')
     st.write('I used _"phishtank.org"_ & _"tranco-list.eu"_ as data sources.')
