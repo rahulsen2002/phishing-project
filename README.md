@@ -28,9 +28,6 @@ This is an End-to-End Machine Learning Project which focuses on phishing website
 - Finally, I visualized the performance measures for all models.
   - Naive Bayes is the best for my case.
 
-## important notes
-- features are content-based and need BeautifulSoup module's methods and fields etc So, you should install it.
-- this code is an output of a video series on the YouTube --> https://www.youtube.com/watch?v=-Aldptec9Xs&list=PL8Uzrd8g1md8kdvNJy0BNRc3cJfVP8QEf
 
 
 ## dataset
