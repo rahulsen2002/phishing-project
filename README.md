@@ -33,5 +33,4 @@ This is an End-to-End Machine Learning Project which focuses on phishing website
 ## dataset
 - with your URL list, you can create your own dataset by using data_collector python file.
 
-# NOTE
-- Machine Learnining files will be added after the videos are uploaded!
+
