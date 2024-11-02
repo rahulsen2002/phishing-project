@@ -1,10 +1,10 @@
-beautifulsoup4: 4.13.0
-matplotlib: 3.8.0
-numpy: 1.26.1
-pandas: 2.1.2
-requests: 2.31.1
-scikit-learn: 1.5.2
-streamlit: 1.26.0
-urllib3: 2.2.0
-pillow: 10.0.1
-pip: 23.3.1
+beautifulsoup4==4.13.0
+matplotlib==3.8.0
+numpy==1.26.1
+pandas==2.1.2
+requests==2.31.1
+scikit-learn==1.5.2
+streamlit==1.26.0
+urllib3==2.2.0
+pillow==10.0.1
+pip==23.3.1
